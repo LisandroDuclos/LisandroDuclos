@@ -5,7 +5,7 @@
 - 🎓 Advanced student of the **Bachelor's in Information Technology Management**.
 - 📊 Building my career in **Data Analysis and Business Intelligence**: turning raw data into clear insights that drive business decisions.
 - 🧰 Core toolkit: **SQL, Python, Excel and Power BI**, from querying and cleaning data to dashboards and storytelling.
-- 🤖 I use **AI tools like Claude and ChatGPT** to speed up analysis, draft and review queries, and explore data, always validating the results.
+- 🤖 I use **AI tools like Claude and ChatGPT** to speed up analysis, draft and review queries, and explore data.
 - 📍 Based in Buenos Aires, Argentina.
 
 🛠️ Tech stack
