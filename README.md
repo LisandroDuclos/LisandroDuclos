@@ -8,7 +8,7 @@
 - 🤖 I use **AI tools like Claude and ChatGPT** to speed up analysis, draft and review queries, and explore data.
 - 📍 Based in Buenos Aires, Argentina.
 
-🛠️ Tech stack
+## 🛠️ Tech stack
 
 Data & Databases
 
@@ -34,7 +34,7 @@ Tools
 | 💳 Credit Risk Analysis | Analysis of loan default drivers by income, loan purpose and credit grade, identifying the riskiest and most profitable customer segments, with a portfolio risk dashboard. | SQL · Python · Power BI |
 | 🛢️ Vaca Muerta Oil & Gas Production | Analysis of Argentina's oil and gas production using official open data: conventional vs. unconventional growth, operator market share, provincial trends and well decline curves. | SQL · Python · Power BI |
 
-📈 GitHub stats
+## 📈 GitHub stats
 <p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=LisandroDuclos&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats"/> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LisandroDuclos&layout=compact&hide_border=true" alt="Top languages"/> </p>
 <p align="center"><i>"Without data, you're just another person with an opinion." — W. Edwards Deming</i></p>
 
